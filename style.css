@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* background-image: url('./image/burger.jpg');  */
+    /* background-size: cover;  */
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    text-align: center; */
+}
+li{
+    list-style: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 100%;
+    position: fixed;
+}
+ul{
+    display: flex;
+    width: 350px;
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+.bg-img{
+    /* background-image: url('./image/burger.jpg');  */
+    /* background-size: cover;  */
+    height: 98vh; 
+    width: 100%;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    /* background-color: red; */
+    
+    
+}
+.img1{
+    width: 98%;
+    object-fit: cover;
+    height: 98vh;
+    
+}
+
+.container2{
+    display: flex;
+    margin-bottom: 30px;
+    width: 90%;
+}
+.dl{
+    padding: 30px 0px 30px 100px;
+    margin: 40px;
+    width: 50%;
+    height: 30%;
+    /* background-color: brown; */
+}
+.img2{
+    height: 80%;
+    width: auto;
+}
+.dr{
+    padding: 30px 0px;
+    margin: 20px;
+    text-align: center;
+    /* background-color: blue; */
+}
+h1{
+    margin: 20px;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+h3{
+    margin: 20px 20px 15px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+p{
+    padding-bottom: 15px ;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Cambria; 
+}
+.p1{
+    /* padding: 0 50px ; */
+    padding-bottom: 15px ;
+    /* line-height: 25px; */
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Cambria;
+}
+.p2{
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Cambria;
+    color: grey;
+}
+.hr{
+    color: grey;
+    width:50px; 
+    
+}
+.container3{
+    display: flex;
+    margin-bottom: 30px;
+    /* width: 90%; */
+
+}
+
+.dr2{
+    padding: 30px 0px 30px 0px;
+    margin: 40px 0px;
+    width: 50%;
+    height: 30%;
+    /* background-color: red; */
+}
+.dl2{
+    padding: 30px 0px;
+    margin: 40px;
+    width: 50%;
+    text-align: center;
+    /* background-color: blue; */
+}
+.h12{
+    margin-bottom: 40px;
+}
+.h32{
+    /* padding-right: 0px; */
+    margin-left: 0px;
+}
+.img3{
+    height: 600px;
+}
+
+
+
+.container4{
+    width: 90%;
+    /* margin-bottom: 30px; */
+}
+.done{
+    width: 90%;
+    margin: 120px 120px 0px 120px;
+}
+.hcon{
+    margin-left: 0px;
+}
+.h44{
+    font-size: 20px;
+    padding: 20px 20px 20px 0px;
+    color: rgb(75, 75, 124);
+    
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    /* width: 90%;
+    margin-left: 120px; */
+    /* background-color: red; */
+    /* margin: 120px 120px 0px 120px; */
+    margin-left: 120px;
+    margin-bottom: 30px;
+  }
+
+  .input {
+    width: 100%;
+    margin-bottom: 10px;
+    /* padding: 5px; */
+    border: 1px solid #ccc;
+    height: 50px;
+  }
+  .button1{
+    margin: 10px 10px 10px 0px;
+    height: 40px;
+    width: 10%;
+
+ }
+
+
+ a {
+    text-decoration: none; 
+    color: white; 
+  }
+  .hr-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; /* Center vertically */
+    /* height: 100vh; */
+  }
+  
+  .hr1 {
+    width: 85%; 
+  }
+  
